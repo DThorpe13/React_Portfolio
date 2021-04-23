@@ -8,7 +8,7 @@ export default class About extends Component {
 
             <div className="three columns">
 
-               <img className="profile-pic"  src="images/profilepic.jpg" alt="" />
+               <img className="profile-pic"  src="images/self.jpg" alt="developer" />
 
             </div>
 
@@ -16,15 +16,13 @@ export default class About extends Component {
 
                <h2>About Me</h2>
                <p style={{color: "white"}}>
-               I recently received my full stack web development certification 
-               from Case Western Reserve University. Throughout the program, I 
-               gained vast knowledge and concentrated skills in responsive 
-               programming using HTML, CSS, Javascript, and Javascript libraries 
-               such as React.js and JQuery, while also attaining an understanding 
-               of server side web and data applications such as node.js and mySQL. 
-               As someone who has shown initiative, growth, leadership, and the 
-               ability to adapt quickly to the task at hand in past job roles, 
-               I will be a strong asset to any development team.
+               I am a Full Stack web developer utilizing my growing expertise in creating fully responsive, 
+               interactive web applications. I recently received my full stack web development certification 
+               from Case Western Reserve University. Throughout the program, I gained vast knowledge and concentrated 
+               skills in responsive programming using HTML, CSS, Javascript, and Javascript libraries such as React.js 
+               and JQuery, while also attaining an understanding of server side web such as node and mySQL and noSQL databases. As someone who has shown initiative, growth, leadership, 
+               and the ability to adapt quickly to the task at hand in past job roles, 
+               I will be a strong asset to any development team. 
                      
                </p>
 

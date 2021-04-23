@@ -6,7 +6,7 @@ let resumeData = {
     "email": "Derekthorpe13@gmail.com",
     "number": "440-444-6572",
     "github": "DThorpe13",
-    "roleDescription": " utilizing my growing expertise in creating fully responsive, interactive web applications. After recently graduating from the Case Western Reserve Full Stack Development Bootcamp, I am focusing on a career shift from Construction into Web Development.",
+    "roleDescription": " utilizing my growing expertise in creating fully responsive, interactive web applications.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -20,7 +20,7 @@ let resumeData = {
         },
         {
           "name":"twitter",
-          "url":"https://twitter.com/d_thorpe13",
+          "url":"https://twitter.com/d_thorpe_13",
           "className":"fa fa-twitter"
         },
         {
@@ -35,7 +35,7 @@ let resumeData = {
         },
         {
           "name":"file",
-          "url":"https://docs.google.com/document/d/1dCvdz3ODj6Osz0rN_EBXH6t7ckF3eVqgDwqQxhDlgYA/edit#heading=h.f655783yxz0y",
+          "url":"https://docs.google.com/document/d/1gZlBuxzwkmUCxbrMDDiMSInyE_IInSm6lR6VhGxgNwg/edit?usp=sharing",
           "className":"fa fa-file"
         }
       ],
@@ -52,16 +52,6 @@ let resumeData = {
       },
       
     ],
-    "work":[
-      {
-        "CompanyName":"Lawhon Construction",
-        "specialization":"Project Manager",
-        "MonthOfLeaving":"",
-        "YearOfLeaving":"Current",
-        "Achievements":"Organizing, overseeing and working through residential contruction projects."
-      },
-      
-    ],
     "skillsDescription":"Skills",
     "skills":[
       {
@@ -74,7 +64,7 @@ let resumeData = {
         "skillname":"JavaScript"
       },
       {
-        "skillname":"MongoDB"
+        "skillname":"Wordpress"
       },
       {
         "skillname":"MySQL"

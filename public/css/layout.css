@@ -194,8 +194,8 @@ background: linear-gradient(to top, #434343, #000000); /* W3C, IE 10+/ Edge, Fir
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   width: 180px;
+   height: 180px;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
@@ -324,22 +324,22 @@ background: linear-gradient(to top, #434343, #000000); /* W3C, IE 10+/ Edge, Fir
   	-webkit-animation: html5 2s ease;
 }
 .javascript {
-  	width: 50%;
+  	width: 60%;
   	-moz-animation: javascript 2s ease;
   	-webkit-animation: javascript 2s ease;
 }
-.mongodb {
-   width: 30%;
-   -moz-animation: mongodb 2s ease;
-   -webkit-animation: mongodb 2s ease;
+.wordpress {
+   width: 60%;
+   -moz-animation: Wordpress 2s ease;
+   -webkit-animation: Wordpress 2s ease;
 }
 .mysql{
-   width: 40%;
+   width: 50%;
    -moz-animation: mysql 2s ease;
    -webkit-animation: mysql 2s ease;
 }
 .reactjs {
-   width: 30%;
+   width: 60%;
    -moz-animation: reactjs 2s ease;
    -webkit-animation: reactjs 2s ease;
 }
@@ -356,7 +356,7 @@ background: linear-gradient(to top, #434343, #000000); /* W3C, IE 10+/ Edge, Fir
 }
 @-moz-keyframes javascript {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 60%;  }
 }
 
 @-webkit-keyframes css {
@@ -367,17 +367,17 @@ background: linear-gradient(to top, #434343, #000000); /* W3C, IE 10+/ Edge, Fir
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes mongodb {
+@-webkit-keyframes Wordpress {
   0%   { width: 0px;  }
-  100% { width: 30%;  }
+  100% { width: 60%;  }
 }
 @-webkit-keyframes mysql {
    0%   { width: 0px;  }
-   100% { width: 40%;  }
+   100% { width: 50%;  }
  }
  @-webkit-keyframes reactjs {
    0%   { width: 0px;  }
-   100% { width: 20%;  }
+   100% { width: 60%;  }
  }
 
 /* ------------------------------------------------------------------ */
