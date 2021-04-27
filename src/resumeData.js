@@ -78,25 +78,25 @@ let resumeData = {
         "name":"Eon Playlist",
         "description":"",
         "url": "https://quiet-woodland-78243.herokuapp.com/",
-        "imgurl":"images/Eon Playlist.png"
+        "imgurl":"images/eon.png"
       },
       {
         "name":"Weather Dashboard",
         "description":"", 
         "url": "https://dthorpe13.github.io/WeatherDashboard/", 
-        "imgurl":"images/WeatherDash.png"
+        "imgurl":"images/dashboard.png"
       },
       {
-        "name":"Fitness Tracker",
+        "name":"Git-Matched",
         "description":"",
         "url": "https://calm-earth-53961.herokuapp.com/?id=5ff30f8104b933001756361a",
-        "imgurl":"images/Fitness Tracker.png"
+        "imgurl":"images/gitmatched.png"
       },
       {
-        "name":"Burger Bites",
+        "name":"World of Music(e-commerce)",
         "description":"",
         "url": "https://nameless-meadow-60668.herokuapp.com/",
-        "imgurl":"images/Burger App.png"
+        "imgurl":"images/ecommerce.png"
       }
     ]
   }
