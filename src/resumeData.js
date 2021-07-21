@@ -4,7 +4,7 @@ let resumeData = {
     "role": "M.E.R.N. Stack Developer",
     "linkedinId":" dthorpe13",
     "email": "Derekthorpe13@gmail.com",
-    "number": "440-444-6572",
+    "number": "440-476-8095",
     "github": "DThorpe13",
     "roleDescription": " utilizing my growing expertise in creating fully responsive, interactive web applications.",
     "socialLinks":[
