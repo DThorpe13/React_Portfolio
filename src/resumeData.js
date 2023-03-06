@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":"",
     "name": "Derek Thorpe",
-    "role": "M.E.R.N. Stack Developer",
+    "role": "Frontend Web Developer",
     "linkedinId":" dthorpe13",
     "email": "Derekthorpe13@gmail.com",
     "number": "440-476-8095",
@@ -19,11 +19,6 @@ let resumeData = {
           "className":"fa fa-github"
         },
         {
-          "name":"twitter",
-          "url":"https://twitter.com/d_thorpe_13",
-          "className":"fa fa-twitter"
-        },
-        {
           "name":"facebook",
           "url":"https://www.facebook.com/profile.php?id=100008767456435",
           "className":"fa fa-facebook"
@@ -35,7 +30,7 @@ let resumeData = {
         },
         {
           "name":"file",
-          "url":"https://docs.google.com/document/d/1gZlBuxzwkmUCxbrMDDiMSInyE_IInSm6lR6VhGxgNwg/edit?usp=sharing",
+          "url":"https://docs.google.com/document/d/1dCvdz3ODj6Osz0rN_EBXH6t7ckF3eVqgDwqQxhDlgYA/edit?usp=sharing",
           "className":"fa fa-file"
         }
       ],
@@ -64,10 +59,10 @@ let resumeData = {
         "skillname":"JavaScript"
       },
       {
-        "skillname":"Wordpress"
+        "skillname":"Shopify"
       },
       {
-        "skillname":"MySQL"
+        "skillname":"Scrum"
       },
       {
         "skillname":"ReactJS"
@@ -79,12 +74,6 @@ let resumeData = {
         "description":"",
         "url": "https://quiet-woodland-78243.herokuapp.com/",
         "imgurl":"images/eon.png"
-      },
-      {
-        "name":"Weather Dashboard",
-        "description":"", 
-        "url": "https://dthorpe13.github.io/WeatherDashboard/", 
-        "imgurl":"images/dashboard.png"
       },
       {
         "name":"Git-Matched",

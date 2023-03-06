@@ -16,13 +16,7 @@ export default class About extends Component {
 
                <h2>About Me</h2>
                <p style={{color: "white"}}>
-               I am a Full Stack web developer utilizing my growing expertise in creating fully responsive, 
-               interactive web applications. I recently received my full stack web development certification 
-               from Case Western Reserve University. Throughout the program, I gained vast knowledge and concentrated 
-               skills in responsive programming using HTML, CSS, Javascript, and Javascript libraries such as React.js 
-               and JQuery, while also attaining an understanding of server side web such as node and mySQL and noSQL databases. As someone who has shown initiative, growth, leadership, 
-               and the ability to adapt quickly to the task at hand in past job roles, 
-               I will be a strong asset to any development team. 
+               I am a Frontend Developer utilizing my growing expertise in creating fully responsive, interactive, and compliant web applications using languages/frameworks such as HTML, CSS, JavaScript, React.js, Next.js, and Shopify Liquid, while gaining a full-stack understanding of applications using SQL, Express.js, and Node.js . After shifting career paths from a Project Manager in Construction, to Frontend Development, I have always taken pride in the ability to adapt to the task at hand with an entrepreneurial, self-motivated, self-starter mindset. As someone who has shown initiative, growth, leadership, and the ability to adapt quickly to the task at hand in past job roles, I will be a strong asset to any development team.
                      
                </p>
 
